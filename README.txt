@@ -1,3 +1,5 @@
+An AI trained on MNIST to predict a number from an image. 
+
 REQUIRES THESE LIBRARIES TO RUN:
 TensorFlow
 Keras
